@@ -2,3 +2,4 @@ test
 line
 line
 line
+line in newbranch
